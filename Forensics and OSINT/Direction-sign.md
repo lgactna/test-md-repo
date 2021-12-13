@@ -15,7 +15,7 @@ I must say, every time I see one of these directional signs, I think I've got to
 Here is [one such picture](https://metaproblems.com/a7b51e5b1708e4eb6d1722795547b152/sign_of_cities.png) of those signs. Your goal? Use those little details to find the name of the marina it's at which you'll submit for the flag (so MetaCTF{name of marina}).
 
 **[Additional files](Assets/Direction-sign):** sign_of_cities.png
-![[Assets/Direction-sign/sign_of_cities.png]]
+![Included image](Assets/Direction-sign/sign_of_cities.png)
 
 ## Solution 
 Well, let's start with the typical approach of reverse image searching it, just in case. 
