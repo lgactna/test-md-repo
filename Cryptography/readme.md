@@ -3,9 +3,9 @@
 ## Encoding formats
 Generic (and typically straightforward) encoding questions.
 - **[Thnks fr th Pwds](Thnks-fr-th-pwds.md):** Simple Base64 decode.
-## Ciphers 
-Generic ciphers.
-- (none)
+## Ciphers/Encryption
+Generic encryption.
+- **[Unbreakable Encryption](Unbreakable-encryption.md):** One-time pad using XOR encryption with unknown key
 ## Steganography
 Hiding messages in plain sight.
 - (none)
