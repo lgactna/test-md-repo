@@ -20,7 +20,7 @@
 ## Solution 
 Well, let's start with the typical approach of reverse image searching it, just in case. 
 
-![[Assets/Direction-sign/screenshots/Pasted image 20211212174248.png|Google reverse image search results]]
+![Search results](./Assets/Direction-sign/screenshots/Pasted image 20211212174248.png)
 
 No dice. So the next approach is to see if there are any distinct words that would immediately identify this place. However, we're located smack in front of this sign, so there's nothing like a highway marker or a nearby business to go off of. We do know (based on the city names and reasonable estimates of distances) that this sign is probably located somewhere in the United States.
 
