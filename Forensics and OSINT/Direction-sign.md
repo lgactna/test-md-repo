@@ -10,9 +10,9 @@
 - **Subcategory:** Geoguessr style problems
 
 ## Prompt 
-> I must say, every time I see one of these directional signs, I think I've got to make this into a CTF problem. It's the idea of Open Source Intelligence (OSINT) or Geospatial Intelligence (GEOINT). The idea of being able to take an image and use all of the clues within it to infer details such as where it's at or what's happening in the photo. 
-> 
-> Here is [one such picture](https://metaproblems.com/a7b51e5b1708e4eb6d1722795547b152/sign_of_cities.png) of those signs. Your goal? Use those little details to find the name of the marina it's at which you'll submit for the flag (so MetaCTF{name of marina}).
+I must say, every time I see one of these directional signs, I think I've got to make this into a CTF problem. It's the idea of Open Source Intelligence (OSINT) or Geospatial Intelligence (GEOINT). The idea of being able to take an image and use all of the clues within it to infer details such as where it's at or what's happening in the photo. 
+
+Here is [one such picture](https://metaproblems.com/a7b51e5b1708e4eb6d1722795547b152/sign_of_cities.png) of those signs. Your goal? Use those little details to find the name of the marina it's at which you'll submit for the flag (so MetaCTF{name of marina}).
 
 **[Additional files](Assets/Direction-sign):** sign_of_cities.png
 ![[Assets/Direction-sign/sign_of_cities.png]]
