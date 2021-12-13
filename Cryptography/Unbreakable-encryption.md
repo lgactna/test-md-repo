@@ -30,7 +30,9 @@ ASCII characters are generally stored in 1 byte (8 bits) of information. 1 hex n
 However, we've been told that we're supposed to XOR each character with the key instead of using modular addition. In other words:
 
 `h` XOR `??` = `4f`
+
 `e` XOR `??` = `d0`
+
 `y` XOR `??` = `98`
 
 and so on. Our goal is to figure out what's being XORed for each character, and then use that same key on Ciphertext 2 to get the plaintext. But now that we've figured out what we need to do, how do we actually get the key?
@@ -91,4 +93,4 @@ for i in range(0, len(cipher_2_ints)):
 print("".join(plain_2_arr))
 ```
 
-The flag turns out to be **flag is MetaCTF{you're_better_than_steve!}**.
+Plaintext 2 is **flag is MetaCTF{you're_better_than_steve!}**.
