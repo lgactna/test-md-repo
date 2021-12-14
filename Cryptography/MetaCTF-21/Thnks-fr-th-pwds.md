@@ -2,6 +2,7 @@
 - **Author:** lgactna/Lloyd Gonzales (originally solved by Rogue King/Miguel M.)
 - **Tools used:** CyberChef
 - **Description:** Simple Base64 decode
+- **Difficulty:** 1
 
 ## Details 
 - **Competition:** MetaCTF 2021

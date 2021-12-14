@@ -2,6 +2,7 @@
 - **Author:** lgactna/Lloyd Gonzales
 - **Tools used:** Google Earth Pro
 - **Description:** Triangulation of a place given specific locations and distances.
+- **Difficulty:** 3
 
 ## Details 
 - **Competition:** MetaCTF 2021

@@ -22,16 +22,17 @@ There are also additional subcategories to help separate common or expansive cat
 	- Ciphers 
 	- Steganography
 	- Advanced crypto
-- **Forensics and OSINT:** Investigation and analysis of digital files and evidence, usually involving a bunch of Googling.  
+- **Forensics:** Investigation and analysis of digital files and evidence, usually involving a bunch of Googling.  
 	- Geoguessr style problems 
 	- Filesystems
-	- Identifiers 
-	- Random 
 - **Log Analysis:** Generic log analysis from various services and programs.  
 	- Tabular 
 	- Non-tabular 
 - **Network Traffic Analysis:** Networking-specific log analysis, usually involving packet captures.  
 	- Generic Wireshark problems 
+	- Random 
+- **OSINT**: Open-source everything.
+	- Identifiers 
 	- Random 
 - **Password Cracking:** What it says on the label.  
 	- Standard 
@@ -56,20 +57,21 @@ If your challenge has additional files, then go to that category's "Assets" fold
 
 Note how you should also put screenshots of your solution into the folder above, too.
 
-When you make a writeup, put the full formal name of the writeup and a brief description in that category's readme. For example:
-`- **[Coffee Break](Coffee-Break.md):** Reversing XOR encryption in a Java file`
+When you make a writeup, put the full formal name of the writeup, a brief description in that category's readme, and the competition. For example:
+`- **[Coffee Break](Coffee-Break.md):** Reversing XOR encryption in a Java file. (WolfHack F21)`
 Which shows up as (without the hyperlink):
-- **Coffee Break:** Reversing XOR encryption in a Java file
+- **Coffee Break:** Reversing XOR encryption in a Java file.s (WolfHack F21)
 
 Hyperlink the **bolded title** to your writeup file on the category's readme file. Likewise, hyperlink to the folder containing your challenge's assets on your writeup file.
 
-All writeups are Markdown files. They don't *have* to be named the exact same as the title, but it helps a lot. Please follow the following format (it helps us figure out where things came from):
+All writeups are Markdown files. They don't *have* to be named the exact same as the title, but it helps a lot. Please follow the following format:
 
 ```
 # Title
 - **Author:** you
 - **Tools used:** CyberChef
 - **Description:** Simple Base64 decode
+- **Difficulty (0-10):** 1 (Make your best judgement - difficulty can differ based on time taken, special knowledge necessary, etc. 5 should represent a challenge that requires several hours to solve (a high-end hard NCL problem).)
 
 ## Details 
 - **Competition:** None
@@ -98,6 +100,7 @@ Here's what that looks like:
 - **Author:** you
 - **Tools used:** CyberChef
 - **Description:** Simple Base64 decode
+- **Difficulty (0-10):** 1
 
 ## Details 
 - **Competition:** None

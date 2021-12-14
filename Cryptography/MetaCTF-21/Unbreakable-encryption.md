@@ -1,7 +1,8 @@
 # Unbreakable Encryption
 - **Author:** lgactna/Lloyd Gonzales
 - **Tools used:** Python
-- **Description:** One-time pad using XOR encryption with unknown key
+- **Description:** One-time pad using XOR encryption with unknown key.
+- **Difficulty:** 3
 
 ## Details 
 - **Competition:** MetaCTF 2021

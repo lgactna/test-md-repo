@@ -2,10 +2,10 @@
 
 ## Encoding formats
 Generic (and typically straightforward) encoding questions.
-- **[Thnks fr th Pwds](Thnks-fr-th-pwds.md):** Simple Base64 decode.
+- **[Thnks fr th Pwds](MetaCTF-21/Thnks-fr-th-pwds.md):** Simple Base64 decode. (MetaCTF 2021)
 ## Ciphers/Encryption
 Generic encryption.
-- **[Unbreakable Encryption](Unbreakable-encryption.md):** One-time pad using XOR encryption with unknown key
+- **[Unbreakable Encryption](MetaCTF-21/Unbreakable-encryption.md):** One-time pad using XOR encryption with unknown key. (MetaCTF 2021)
 ## Steganography
 Hiding messages in plain sight.
 - (none)
